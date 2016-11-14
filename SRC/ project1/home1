@@ -1,0 +1,7 @@
+public class My class {
+public static void main(String args[]) {
+String surname = "Беляева";
+String name = "Оксана";
+//складываем две строки и пробел между ними, чтобы слова не слиплись
+String fullname = surname + "" + name; // получится Беляева Оксана
+}}
